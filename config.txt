@@ -1,0 +1,2 @@
+CLIENT:ID = 622647056584-08a1d1q9u5dcnaijice893k4to6hcfg4.apps.googleusercontent.com
+apikey = SJSI7ZNm8lBrOTRXuCiqJ7vS
